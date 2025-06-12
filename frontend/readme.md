@@ -1,4 +1,4 @@
-# Фронтенд для тестового задания Circled Square
+# Фронтенд для тестового задания `Round Squares`
 
 Использует `@tanstack/react-query` для работа с API. Собирает методы при помощи `yarn gen`, на основании значения `VITE_API_URL` в `.env`.
 
