@@ -1,4 +1,4 @@
-# Тестовая задача `Circled Square`.
+# Тестовая задача `Round Squares`.
 
 - [Описания для бэкенда](backend/readme.md)
 
